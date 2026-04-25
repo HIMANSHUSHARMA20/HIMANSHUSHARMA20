@@ -1,64 +1,75 @@
-## Hi there 👋
-
-# HIMANSHU SHARMA  
-### Red Team Operator | Pentester | Offensive Security  
+# HIMANSHU SHARMA
+### Red Team Operator | Offensive Security
 
 ---
 
-## About Me
-- Computer Engineering Student  
-- Focused on Red Teaming and Exploitation  
-- Interests: Web Security, Network Security, Reconnaissance  
-- Building different tools   
+## 🖥️ whoami
+```bash
+himanshu@kali:~$ whoami
+Red Teamer | Pentester | Automation Builder
+```
+
+I build offensive security tools and automation scripts focused on reconnaissance and exploitation.
 
 ---
 
-## Attack Surface (Skills)
-![Skills](https://skillicons.dev/icons?i=linux,python,bash,git,github,wordpress,mysql)
+## 📂 cat tech_stack.txt
+```bash
+Linux
+Python
+Bash
+Web Security
+Network Security
+OSINT
+Git
+```
 
 ---
 
-## Arsenal (Tools)
-- Nmap  
-- Burp Suite  
-- FFUF  
-- Dirb  
-- Gobuster  
-- Metasploit  
-- Wireshark  
-
----
-
-## GitHub Stats
+## 📊 ./stats.sh
 ![Stats](https://github-readme-stats.vercel.app/api?username=himanshusharma20&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusharma20&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanshusharma20&theme=radical)
 
 ---
 
-## Labs & Practice
-- TryHackMe: https://tryhackme.com/p/HimanshuSharma.2  
-- VulnLab  
-- PortSwigger Labs  
+## 📁 ls -la /projects
+
+| Project | Description | Link |
+|--------|------------|------|
+| PCA | CLI-based pentesting assistant for recon & automation | [View Repo](https://github.com/himanshusharma20/PCA) |
+| Linux-for-a-Pentester | Practical penetration testing notes | [View Repo](https://github.com/himanshusharma20/Linux-for-a-Pentester) |
 
 ---
 
-## Certifications
-- SEC1 (https://assets.tryhackme.com/certification-certificate/698fffdbdaaeeb536f4d8588.pdf)
-- (More coming soon)  
+## 🌐 netstat -an | grep CONNECT
+```bash
+Protocol: HTTPS
+Port: 443
+Status: LISTENING
+
+TryHackMe: https://tryhackme.com/p/HimanshuSharma.2
+```
 
 ---
 
-## Featured Projects
-- PCA — CLI-based Pentesting Assistant  
-- Linux-for-a-Pentester — Practical Notes  
+## 🏆 Certifications
+```bash
+eJPT
+(more loading...)
+```
 
 ---
 
-## Connect
-- LinkedIn: (https://www.linkedin.com/in/himanshusharmacyber/)  
-- Email: (himanshu15608@gmail.com)  
+## ⚡ system_status
+```bash
+> mindset: attacker
+> focus: exploitation
+> status: learning & building
+```
 
 ---
 
-> Think like an attacker. Defend like a strategist.
+> connection terminated. stay safe in cyberspace.
