@@ -3,7 +3,7 @@
 
 ---
 
-## 🖥️ whoami
+##  whoami
 ```bash
 himanshu@kali:~$ whoami
 Red Teamer | Pentester | Automation Builder
@@ -13,7 +13,7 @@ I build offensive security tools and automation scripts focused on reconnaissanc
 
 ---
 
-## 📂 cat tech_stack.txt
+##  cat tech_stack.txt
 ```bash
 Linux
 Python
@@ -35,7 +35,7 @@ Git
 
 ---
 
-## 📁 ls -la /projects
+##  ls -la /projects
 
 | Project | Description | Link |
 |--------|------------|------|
@@ -44,7 +44,7 @@ Git
 
 ---
 
-## 🌐 netstat -an | grep CONNECT
+##  netstat -an | grep CONNECT
 ```bash
 Protocol: HTTPS
 Port: 443
@@ -55,15 +55,15 @@ TryHackMe: https://tryhackme.com/p/HimanshuSharma.2
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 ```bash
-eJPT
+SEC1 (https://assets.tryhackme.com/certification-certificate/698fffdbdaaeeb536f4d8588.pdf)
 (more loading...)
 ```
 
 ---
 
-## ⚡ system_status
+##  system_status
 ```bash
 > mindset: attacker
 > focus: exploitation
